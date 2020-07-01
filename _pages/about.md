@@ -67,9 +67,9 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 ### Graduate Teaching Assistants
 
-<div style="text-align:center;">
+<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Joel LEE</strong>
@@ -77,7 +77,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Martin.JPG"/><BR/>
   <strong>Martin STROBEL</strong>
@@ -89,9 +89,9 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 ### Undergraduate Teaching Assistants
 
-<div style="text-align:center;">
+<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/elimwj.jpg"/><BR/>
   <strong>Eugene LIM</strong>
@@ -99,7 +99,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:elimwj@comp.nus.edu.sg">elimwj@comp.nus.edu.sg</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Yingnan.jpg"/><BR/>
   <strong>LIU Yingnan</strong>
@@ -107,7 +107,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:liu.yingnan@u.nus.edu">liu.yingnan@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/tianzhen.png"/><BR/>
   <strong>NI Tianzhen</strong>
@@ -115,7 +115,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:nitianzhen@u.nus.edu">nitianzhen@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Achal RAYAKAR</strong>
@@ -123,7 +123,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:achal@u.nus.edu">achal@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/sreyans.jpg"/><BR/>
   <strong>Sreyans SIPANI</strong>
@@ -131,7 +131,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Tongyao.jpg"/><BR/>
   <strong>ZHU Tongyao</strong>
@@ -139,7 +139,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar"> 
+<div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Shreyas.jpg"/><BR/> 
   <strong>Shreyas KUTHANOOR PRAKASH</strong> 
@@ -147,7 +147,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
 </div>
 
-<div class="author__avatar"> 
+<div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Chenyang.jpg"/><BR/> 
   <strong>XUE Chenyang</strong> 
@@ -155,7 +155,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:xue.chenyang@u.nus.edu">xue.chenyang@u.nus.edu</A><BR/> 
 </div>
 
-<div class="author__avatar"> 
+<div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/LeowWB.jpg"/><BR/> 
   <strong>LEOW Wen Bin</strong> 
