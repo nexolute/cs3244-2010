@@ -51,16 +51,15 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 **Instructors**:
 
-<div class="author__avatar" style="text-align:center;">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/kanmy.jpg"/><BR/>
-  <strong>Min-Yen KAN</strong>
-  <BR/>
-  <A HREF="mailto:kanmy@comp.nus.edu.sg">kanmy@comp.nus.edu.sg</A><BR/>
-  Office: AS6 05-12
+<div class="author__profile">
+  <img src="images/kanmy.jpg"/>
+  <div>
+    <strong>Min-Yen KAN</strong><br/>
+    <a href="mailto:kanmy@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> kanmy@comp.nus.edu.sg</a><br/>
+    <i class="fas fa-building"></i> AS6 05-12<br/><br/>
+    Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
+  </div>
 </div>
-
-Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
 
 ## Teaching Assistants
 

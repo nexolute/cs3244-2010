@@ -93,6 +93,27 @@
   }
 }
 
+.author__profile {
+  display: grid;
+  grid-template-columns: auto auto;
+  // set width only, for non-square avatars
+
+  @include breakpoint($large) {
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    width: 150px;
+    border-radius: 50%;
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+      margin-right: 15px;
+    }
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
